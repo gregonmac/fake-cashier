@@ -1,0 +1,24 @@
+{
+  "name": "fake-cashier",
+  "version": "1.0.0-alpha.1",
+  "description": "App for my daughter, which allow her to play to simulate a command took into a drive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregonmac/fake-cashier.git"
+  },
+  "keywords": [
+    "game",
+    "cashier",
+    "children"
+  ],
+  "author": "Gregory ANNE <gregonmac@gmail.com>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/gregonmac/fake-cashier/issues"
+  },
+  "homepage": "https://github.com/gregonmac/fake-cashier#readme"
+}
