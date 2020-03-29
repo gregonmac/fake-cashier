@@ -1,0 +1,40 @@
+<mat-toolbar color="primary">
+
+    <fa-icon [icon]="faCashRegister" style=" padding:0 10px"></fa-icon>
+    <span>Les cousines</span>
+    <span class="example-spacer" style="flex: 1 1 auto;"></span>
+    {{currentCommandTotal}}<mat-icon class="example-icon" style="padding: 0 14px;" aria-hidden="false" aria-label="Example heart icon">euro</mat-icon>
+    <button (click)="pay()" style="margin-left: 20px;" mat-raised-button >Payer</button>
+</mat-toolbar>
+<mat-drawer-container [autosize]="true" scrollable="true">
+  <mat-drawer mode="side" opened>
+    <mat-list role="list">
+      <mat-list-item role="listitem">Votre commande</mat-list-item>
+      <mat-list-item role="listitem" *ngFor="let product of selectedProducts | keyvalue">{{product.key.text}} x {{product.value}}</mat-list-item>
+      <mat-divider></mat-divider>
+    </mat-list>
+  </mat-drawer>
+  <mat-drawer-content>
+    <mat-grid-list cols="5" rowHeight="100px">
+      <mat-grid-tile
+          *ngFor="let product of products"
+          [colspan]="1"
+          [rowspan]="2">
+        <button mat-button (click)="addProduct(product)">
+          <mat-card class="item-card">
+            <mat-card-header>
+              <mat-card-title>{{product.text}}</mat-card-title>
+              <mat-card-subtitle></mat-card-subtitle>
+            </mat-card-header>
+            <mat-card-content>
+            <fa-icon  [icon]="product.icon" size="{{product.size}}"></fa-icon>
+            </mat-card-content>
+            <mat-card-footer>
+              {{product.price}}€
+            </mat-card-footer>
+          </mat-card>
+        </button>
+      </mat-grid-tile>
+    </mat-grid-list>
+  </mat-drawer-content>
+</mat-drawer-container>
