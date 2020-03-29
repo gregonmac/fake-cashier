@@ -1,12 +1,19 @@
-<h1 mat-dialog-title>Hi {{data.name}}</h1>
+<h1 mat-dialog-title>Votre commande : {{data.total}} €</h1>
 <div mat-dialog-content>
-  <p>What's your favorite animal?</p>
-  <mat-form-field>
-    <mat-label>Favorite Animal</mat-label>
-    <input matInput [(ngModel)]="data.animal">
-  </mat-form-field>
+  <mat-list role="list">
+
+      <mat-list-item
+        role="listitem"
+        *ngFor="let product of data.command | keyvalue"
+      >
+        <img style="max-width: 50px;" src="assets/{{ product.key.id }}" />
+        {{ product.key.text }} x
+        {{ product.value }}</mat-list-item
+      >
+      <mat-divider></mat-divider>
+    </mat-list>
 </div>
 <div mat-dialog-actions>
-  <button mat-button (click)="onCancel()">No Thanks</button>
+  <button mat-button (click)="onCancel()">Annuler</button>
   <button mat-button (click)="onPay()" cdkFocusInitial>Ok</button>
 </div>

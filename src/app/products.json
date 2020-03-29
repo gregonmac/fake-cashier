@@ -1,0 +1,590 @@
+[
+  {
+    "id": "san_280_bacon",
+    "text": "280 bacon",
+    "categories": ["cat_sandwich"],
+    "price": 5.0
+  },
+  {
+    "id": "san_280_oeuf",
+    "text": "280 oeuf",
+    "categories": ["cat_sandwich"],
+    "price": 5.0
+  },
+  {
+    "id": "san_280_oringinal",
+    "text": "280 original",
+    "categories": ["cat_sandwich"],
+    "price": 4.8
+  },
+  {
+    "id": "san_big_mac",
+    "text": "big mac",
+    "categories": ["cat_sandwich"],
+    "price": 3.9
+  },
+  {
+    "id": "san_big_tasty",
+    "text": "big tasty",
+    "categories": ["cat_sandwich"],
+    "price": 4.3
+  },
+  {
+    "id": "san_cbo",
+    "text": "cbo",
+    "categories": ["cat sandwich"],
+    "price": 3.6
+  },
+  {
+    "id": "san_cheeseburger",
+    "text": "cheeseburger",
+    "categories": ["cat_sandwich"],
+    "price": 2.2
+  },
+  {
+    "id": "san_chicken_big_tasty",
+    "text": "chicken big tasty",
+    "categories": ["cat_sandwich"],
+    "price": 3.2
+  },
+  {
+    "id": "san_double_cheddar",
+    "text": "double cheddar",
+    "categories": ["cat_sandwich"],
+    "price": 3.4
+  },
+  {
+    "id": "san_double_cheese",
+    "text": "double cheese",
+    "categories": ["cat_sandwich"],
+    "price": 2.9
+  },
+  {
+    "id": "san_fillet_o_fish",
+    "text": "fillet o fish",
+    "categories": ["cat_sandwich"],
+    "price": 1.9
+  },
+  {
+    "id": "san_hamburger",
+    "text": "hamburger",
+    "categories": ["cat_sandwich"],
+    "price": 1.6
+  },
+  {
+    "id": "san_le_croque",
+    "text": "le croque",
+    "categories": ["cat_sandwich", "cat_petite_faim"],
+    "price": 1.4
+  },
+  {
+    "id": "san_mc_chicken",
+    "text": "mc chicken",
+    "categories": ["cat_sandwich"],
+    "price": 3.2
+  },
+  {
+    "id": "san_mc_first_boeuf",
+    "text": "mc first boeuf",
+    "categories": ["cat_sandwich"],
+    "price": 2.6
+  },
+  {
+    "id": "san_mc_first_poisson",
+    "text": "mc first poisson",
+    "categories": ["cat_sandwich"],
+    "price": 2.2
+  },
+  {
+    "id": "san_mc_first_poulet",
+    "text": "mc first poulet",
+    "categories": ["cat_sandwich"],
+    "price": 2.2
+  },
+  {
+    "id": "san_mc_fish",
+    "text": "mc fish",
+    "categories": ["cat_sandwich", "cat_petite_faim"],
+    "price": 2.2
+  },
+  {
+    "id": "san_muffin_egg_bacon",
+    "text": "muffin egg bacon",
+    "categories": ["cat_sandwich", "cat_petite_faim"],
+    "price": 1.9
+  },
+  {
+    "id": "san_muffin_egg_cheese",
+    "text": "muffin egg cheese",
+    "categories": ["cat_sandwich", "cat_petite_faim"],
+    "price": 2.0
+  },
+  {
+    "id": "san_ptit_focaccia",
+    "text": "ptit focaccia",
+    "categories": ["cat_sandwich"],
+    "price": 3.2
+  },
+  {
+    "id": "san_tenessee",
+    "text": "tenessee",
+    "categories": ["cat_sandwich"],
+    "price": 3.2
+  },
+  {
+    "id": "san_tenessee_double",
+    "text": "tenessee double",
+    "categories": ["cat_sandwich"],
+    "price": 3.6
+  },
+  {
+    "id": "san_triple_cheddar",
+    "text": "triple cheddar",
+    "categories": ["cat_sandwich"],
+    "price": 4.2
+  },
+  {
+    "id": "san_triple_cheese",
+    "text": "triple cheese",
+    "categories": ["cat_sandwich"],
+    "price": 3.9
+  },
+  {
+    "id": "san_triple_cheese_bacon",
+    "text": "triple cheese bacon",
+    "categories": ["cat_sandwich"],
+    "price": 4.2
+  },
+  {
+    "id": "shared_boite_a_partager_chevre",
+    "text": "boite a partager chevre",
+    "categories": ["cat_petite_faim"],
+    "price": 4.2
+  },
+  {
+    "id": "shared_boite_a_partager_nuggets",
+    "text": "boite a partager nuggets",
+    "categories": ["cat_petite_faim"],
+    "price": 4.2
+  },
+  {
+    "id": "shared_nuggets",
+    "text": "nuggets",
+    "categories": ["cat_petite_faim"],
+    "price": 2.2
+  },
+  {
+    "id": "wrap_chevre",
+    "text": "chevre",
+    "categories": ["cat_petite_faim"],
+    "price": 2.2
+  },
+  {
+    "id": "wrap_new_york",
+    "text": "new york",
+    "categories": ["cat_petite_faim"],
+    "price": 2.4
+  },
+  {
+    "id": "wrap_ptit_ranch",
+    "text": "ptit ranch",
+    "categories": ["cat_petite_faim"],
+    "price": 1.2
+  },
+  {
+    "id": "wrap_ptit_wrap_veggie",
+    "text": "ptit wrap veggie",
+    "categories": ["cat_petite_faim"],
+    "price": 2.2
+  },
+  {
+    "id": "wrap_veggie",
+    "text": "veggie",
+    "categories": ["cat_petite_faim"],
+    "price": 2.2
+  },
+  {
+    "id": "acc_fites",
+    "text": "fites",
+    "categories": ["cat_petite_faim"],
+    "price": 1.5
+  },
+  {
+    "id": "acc_patatoes",
+    "text": "patatoes",
+    "categories": ["cat_petite_faim"],
+    "price": 1.6
+  },
+  {
+    "id": "acc_ptit_tomate",
+    "text": "ptit tomate",
+    "categories": ["cat_petite_faim"],
+    "price": 1.3
+  },
+  {
+    "id": "acc_salade",
+    "text": "salade",
+    "categories": ["cat_petite_faim", "cat_salade"],
+    "price": 2.2
+  },
+  {
+    "id": "sal_chevre",
+    "text": "chevre",
+    "categories": ["cat_salade"],
+    "price": 6.2
+  },
+  {
+    "id": "sal_chicken_caesar",
+    "text": "chicken caesar",
+    "categories": ["cat_salade"],
+    "price": 6.2
+  },
+  {
+    "id": "sal_italian_mozza",
+    "text": "italian mozza",
+    "categories": ["cat_salade"],
+    "price": 6.2
+  },
+  {
+    "id": "sal_manhattan",
+    "text": "manhattan",
+    "categories": ["cat_salade"],
+    "price": 6.2
+  },
+  {
+    "id": "drink_coca_cola",
+    "text": "coca cola",
+    "categories": ["cat_boisson"],
+    "price": 2.2
+  },
+  {
+    "id": "drink_coca_cola_zero",
+    "text": "coca cola zero",
+    "categories": ["cat_boisson"],
+    "price": 2.2
+  },
+  {
+    "id": "drink_evian",
+    "text": "evian",
+    "categories": ["cat_boisson"],
+    "price": 2.3
+  },
+  {
+    "id": "drink_fante",
+    "text": "fanta",
+    "categories": ["cat_boisson"],
+    "price": 2.2
+  },
+  {
+    "id": "drink_ice_tea",
+    "text": "ice tea",
+    "categories": ["cat_boisson"],
+    "price": 2.3
+  },
+  {
+    "id": "drink_lipton",
+    "text": "lipton",
+    "categories": ["cat_boisson"],
+    "price": 2.2
+  },
+  {
+    "id": "drink_minute_maid",
+    "text": "minute maid",
+    "categories": ["cat_boisson"],
+    "price": 2.2
+  },
+  {
+    "id": "drink_ptit_bio",
+    "text": "ptit bio",
+    "categories": ["cat_boisson"],
+    "price": 2.2
+  },
+  {
+    "id": "drink_sprite",
+    "text": "sprite",
+    "categories": ["cat_boisson"],
+    "price": 2.2
+  },
+  {
+    "id": "hot_l_expresso",
+    "text": "l'expresso",
+    "categories": ["cat_boisson"],
+    "price": 1.2
+  },
+  {
+    "id": "hot_l_expresso_noisette",
+    "text": "l'expresso noisette",
+    "categories": ["cat_boisson"],
+    "price": 1.3
+  },
+  {
+    "id": "hot_l_expresso_viennois",
+    "text": "l'expresso viennois",
+    "categories": ["cat_boisson"],
+    "price": 1.3
+  },
+  {
+    "id": "hot_le_cafe_allonge",
+    "text": "le cafe allonge",
+    "categories": ["cat_boisson"],
+    "price": 1.3
+  },
+  {
+    "id": "hot_le_cafe_viennois",
+    "text": "le cafe viennois",
+    "categories": ["cat_boisson"],
+    "price": 1.4
+  },
+  {
+    "id": "hot_le_cappuccino",
+    "text": "le cappuccino",
+    "categories": ["cat_boisson"],
+    "price": 1.5
+  },
+  {
+    "id": "hot_le_cappuccino_daim",
+    "text": "le cappuccino daim",
+    "categories": ["cat_boisson"],
+    "price": 1.6
+  },
+  {
+    "id": "hot_le_chocolat_chaud",
+    "text": "le chocolat chaud",
+    "categories": ["cat_boisson"],
+    "price": 1.6
+  },
+  {
+    "id": "hot_le_chocolat_chaud_viennois",
+    "text": "le chocolat chaud viennois",
+    "categories": ["cat_boisson"],
+    "price": 1.7
+  },
+  {
+    "id": "hot_le_double_expresso",
+    "text": "le double expresso",
+    "categories": ["cat_boisson"],
+    "price": 1.5
+  },
+  {
+    "id": "hot_le_latte",
+    "text": "le latte",
+    "categories": ["cat_boisson"],
+    "price": 1.5
+  },
+  {
+    "id": "hot_le_mocha",
+    "text": "le mocha",
+    "categories": ["cat_boisson"],
+    "price": 1.5
+  },
+  {
+    "id": "hot_le_mocha_viennois",
+    "text": "le mocha viennois",
+    "categories": ["cat_boisson"],
+    "price": 1.6
+  },
+  {
+    "id": "hot_le_ristretto",
+    "text": "le ristretto",
+    "categories": ["cat_boisson"],
+    "price": 1.3
+  },
+  {
+    "id": "hot_le_the",
+    "text": "le the",
+    "categories": ["cat_boisson"],
+    "price": 1.3
+  },
+  {
+    "id": "dessert_ptit_milkshake_vanille",
+    "text": "ptit milkshake vanille",
+    "categories": ["cat_dessert"],
+    "price": 3.2
+  },
+  {
+    "id": "dessert_bio_a_boire_vanille",
+    "text": "bio a boire vanille",
+    "categories": ["cat_dessert"],
+    "price": 3.4
+  },
+  {
+    "id": "dessert_donut_confetti",
+    "text": "donut confetti",
+    "categories": ["cat_dessert"],
+    "price": 3.1
+  },
+  {
+    "id": "dessert_la_ptit_mangue",
+    "text": "la ptit mangue",
+    "categories": ["cat_dessert"],
+    "price": 2.2
+  },
+  {
+    "id": "dessert_la_ptite_pomme",
+    "text": "la ptite pomme",
+    "categories": ["cat_dessert"],
+    "price": 2.2
+  },
+  {
+    "id": "dessert_le_berlingo_fruits",
+    "text": "le berlingo fruits",
+    "categories": ["cat_dessert"],
+    "price": 3.5
+  },
+  {
+    "id": "dessert_le_brownie_choco_noisette",
+    "text": "le brownie choco noisette",
+    "categories": ["cat_dessert"],
+    "price": 3.6
+  },
+  {
+    "id": "dessert_le_cookie_choconuts",
+    "text": "le cookie choconuts",
+    "categories": ["cat_dessert"],
+    "price": 3.6
+  },
+  {
+    "id": "dessert_le_donut_chocolat",
+    "text": "le donut chocolat",
+    "categories": ["cat_dessert"],
+    "price": 3.6
+  },
+  {
+    "id": "dessert_le_donut_nature",
+    "text": "le donut nature",
+    "categories": ["cat_dessert"],
+    "price": 3.7
+  },
+  {
+    "id": "dessert_le_duo_de_macarons",
+    "text": "le duo de macarons",
+    "categories": ["cat_dessert"],
+    "price": 3.2
+  },
+  {
+    "id": "dessert_le_mcFlurry",
+    "text": "le mcFlurry",
+    "categories": ["cat_dessert"],
+    "price": 4.2
+  },
+  {
+    "id": "dessert_le_muffin_choco_noisette",
+    "text": "le muffin choco noisette",
+    "categories": ["cat_dessert"],
+    "price": 3.2
+  },
+  {
+    "id": "dessert_le_muffin_myrtilles",
+    "text": "le muffin myrtilles",
+    "categories": ["cat_dessert"],
+    "price": 3.2
+  },
+  {
+    "id": "dessert_le_sunday",
+    "text": "le sunday",
+    "categories": ["cat_dessert"],
+    "price": 2.2
+  },
+  {
+    "id": "dessert_le_very_parfait",
+    "text": "le very parfait",
+    "categories": ["cat_dessert"],
+    "price": 3.2
+  },
+  {
+    "id": "dessert_ptit_milkshake_choconuts",
+    "text": "ptit milkshake choconuts",
+    "categories": ["cat_dessert"],
+    "price": 3.2
+  },
+  {
+    "id": "dessert_ptit_milkshake_coco",
+    "text": "ptit milkshake coco",
+    "categories": ["cat_dessert"],
+    "price": 3.2
+  },
+  {
+    "id": "dessert_ptit_milkshake_fraise",
+    "text": "ptit milkshake fraise",
+    "categories": ["cat_dessert"],
+    "price": 3.2
+  },
+  {
+    "id": "sauce_allegee",
+    "text": "allegee",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_au_bleu",
+    "text": "au bleu",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_bbq",
+    "text": "bbq",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_chinoise",
+    "text": "chinoise",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_curry",
+    "text": "curry",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_deluxe",
+    "text": "deluxe",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_ketchup",
+    "text": "ketchup",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_mayo",
+    "text": "mayo",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_mourtarde",
+    "text": "mourtarde",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_tandoori",
+    "text": "tandoori",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_vinaigrette",
+    "text": "vinaigrette",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_vinaigrette_aux_herbes",
+    "text": "vinaigrette aux herbes",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  },
+  {
+    "id": "sauce_vinaigrette_noisette",
+    "text": "vinaigrette noisette",
+    "categories": ["cat_salade"],
+    "price": 0.2
+  }
+]

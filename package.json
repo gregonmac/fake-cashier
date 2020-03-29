@@ -1,6 +1,6 @@
 {
   "name": "fake-cashier",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "App for my daughter, which allow her to play to simulate a command took into a drive",
   "scripts": {
     "ng": "ng",

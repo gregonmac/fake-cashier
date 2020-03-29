@@ -2,6 +2,13 @@
   width: 150px;
   height: 180px;
 }
+mat-card {
+  padding: 0px;
+}
+
+.mat-card-header .mat-card-title {
+  font-size: 1em;
+}
 
 /* .example-header-image {
   background-image: url("https://material.angular.io/assets/img/examples/shiba1.jpg");
